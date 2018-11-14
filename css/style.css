@@ -913,6 +913,8 @@ input[type="radio"].visually-hidden {
   margin: 0;
   padding-top: 30px;
   padding-bottom: 50px; }
+  .about__text a {
+    color: #000000; }
 
 .about__text-title {
   display: inline-block;
